@@ -1,5 +1,5 @@
 {
-  "name": "natsu-dao",
+  "name": "summer-excuse-dao",
   "version": "1.0.0",
   "scripts": {
     "test": "hardhat test"
